@@ -1,0 +1,87 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide Hartford</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_popular">Popular</string>
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_outdoors">Outdoors</string>
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_transit">Transit</string>
+
+
+    <!-- Popular Entries [CHAR LIMIT=20] -->
+    <string-array name="popular_name">
+        <item>Blue Back Square</item>
+        <item>Bushnell Park</item>
+        <item>Connecticut Capitol</item>
+        <item>Connecticut State House</item>
+        <item>Mark Twain House</item>
+        <item>Riverfront</item>
+    </string-array>
+
+    <string-array name="popular_address">
+        <item>65 Memorial Rd, West Hartford, CT</item>
+        <item>1 Jewell St, Hartford, CT</item>
+        <item>210 Capitol Ave, Hartford, CT</item>
+        <item>800 Main St, Hartford, CT</item>
+        <item>351 Farmington Ave, Hartford, CT</item>
+        <item>300 Columbus Boulevard, Hartford, CT</item>
+    </string-array>
+
+
+    <!-- Food Entries [CHAR LIMIT=20] -->
+    <string-array name="food_name">
+        <item>Angry Tofu</item>
+        <item>Bears BBQ</item>
+        <item>Pho 501</item>
+        <item>Plan B</item>
+        <item>Robb's Ice Cream</item>
+        <item>Shu Chinese Cuisine</item>
+    </string-array>
+
+    <string-array name="food_address">
+        <item>30 Silas Deane Hwy, Wethersfield, CT</item>
+        <item>25 Front St, Hartford, CT</item>
+        <item>501 Main St #5, East Hartford, CT</item>
+        <item>120 Hebron Ave, Glastonbury, CT</item>
+        <item>91 Wassuc Rd, South Glastonbury, CT</item>
+        <item>156 Shield St, West Hartford, CT</item>
+    </string-array>
+
+
+    <!-- Outdoor Entries [CHAR LIMIT=20] -->
+    <string-array name="outdoor_name">
+        <item>Case Mountain</item>
+        <item>Heublein Tower</item>
+        <item>Ragged Mountain</item>
+        <item>Ski Sun Down</item>
+        <item>Sleeping Giant</item>
+        <item>West Hartford Reservoir</item>
+    </string-array>
+
+    <string-array name="outdoor_address">
+        <item>640 Spring St, Manchester, CT</item>
+        <item>Summit Ridge Dr Simsbury, CT</item>
+        <item>437 West Ln, Berlin, CT 06037</item>
+        <item>26 Ratlum Rd, New Hartford, CT</item>
+        <item>200 Mt Carmel Ave, Hamden, CT</item>
+        <item>1420 Farmington Ave, West Hartford, CT 06107</item>
+    </string-array>
+
+
+    <!-- Transit Entries [CHAR LIMIT=20] -->
+    <string-array name="transit_name">
+        <item>Bradley Airport BDL</item>
+        <item>Hartford Union Station</item>
+        <item>New Haven Union Station</item>
+    </string-array>
+
+    <string-array name="transit_address">
+        <item>Schoephoester Rd, Windsor Locks, CT</item>
+        <item>1 Union Pl, Hartford, CT</item>
+        <item>50 Union Ave, New Haven, CT</item>
+    </string-array>
+
+</resources>
